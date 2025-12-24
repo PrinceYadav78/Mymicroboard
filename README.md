@@ -21,6 +21,8 @@ MacroBoard is a 9-key hot-swappable mechanical macropad powered by [Seeed Studio
 
 ##PCB
 ![macroboard pcb_page-0001](https://github.com/user-attachments/assets/72215ec3-682e-4a27-89a1-2e9cb05d7af1)
+<img width="587" height="745" alt="image" src="https://github.com/user-attachments/assets/b19ba207-2b2b-4566-85de-c3c74912aba0" />
+
 
 ## Hardware Overview
 
