@@ -16,6 +16,12 @@ MacroBoard is a 9-key hot-swappable mechanical macropad powered by [Seeed Studio
 - Compatible with Windows, macOS, and Linux operating systems.
 - Dimensions: 61mm x 81mm x 31mm (without case), 66mm x 86mm x 35mm (with 3D-printed case).
 
+##Schematic
+![MacroBoard_sch_page-0001](https://github.com/user-attachments/assets/c183b9bf-39c3-4237-94d6-32b9d76f55dd)
+
+##PCB
+![macroboard pcb_page-0001](https://github.com/user-attachments/assets/72215ec3-682e-4a27-89a1-2e9cb05d7af1)
+
 ## Hardware Overview
 
 ![MacroBoard](https://i0.wp.com/palmacas.com/wp-content/uploads/post6708_5.png)
