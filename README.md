@@ -19,3 +19,4 @@
 
 <img width="436" height="479" alt="image" src="https://github.com/user-attachments/assets/95a06d05-da73-4ba9-bbee-aa95f1f9229c" />
 <img width="710" height="435" alt="Screenshot 2025-12-02 023718" src="https://github.com/user-attachments/assets/6665a919-ce91-4d9f-8c3f-efa5dd716a27" />
+<img width="1419" height="198" alt="bom" src="https://github.com/user-attachments/assets/138ba531-1844-48ac-992c-5ab2213aa134" />
